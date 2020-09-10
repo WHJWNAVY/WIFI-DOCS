@@ -7,3 +7,5 @@
 * [什么是802.11ac和802.11ac_Wave2.pdf](什么是802.11ac和802.11ac_Wave2.pdf)
 * [802.11无线网络权威指南(第二版)-影印.pdf](IEEE-802.11/802.11无线网络权威指南(第二版)-影印.pdf)
 
+* [EasyMesh-Multi-AP_Specification_v2.0.pdf](Easymesh/Multi-AP_Specification_v2.0.pdf)
+
